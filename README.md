@@ -6,6 +6,10 @@ This is the Bootcamp week 1 challenge project which consist of refactoring the c
 
 ![Landing page mock-up](./docs/Assets/01-html-css-git-challenge-demo.png)
 
+You can check the
+
+### Solution
+
 My solution included semantic tags to organise the HTML document in the header, main and footer sections, and organise the main content as follows:
 
 * content, listing the content in semantic sections,
@@ -19,9 +23,12 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 - [HTML CSS Git Challenge: Code Refactor](#html-css-git-challenge-code-refactor)
   - [Description](#description)
+    - [Solution](#solution)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Demo](#demo)
+  - [Tests](#tests)
   - [Credits](#credits)
   - [License](#license)
   - [Badges](#badges)
@@ -40,6 +47,15 @@ Essentially, the new page should look the same as the previous version because i
 
 You can open the inpector tool in your browser to check the HTML and CSS structure of the landing page.
 
+## Demo
+
+A demo of this project can be viewed [here](https://technoveltyco.github.io/bootcamp-week1-challenge/)
+
+## Tests
+
+You can run a test to validate the code of this project against the standards HTML5, CSS3 and basic WCAG 2,0 compliance using the [W3C Nu Validator](https://validator.w3.org/nu/).
+
+For a more detailed web accessibility validation, you can use the [WAVE](https://wave.webaim.org/) evaluation tool.
 
 ## Credits
 
@@ -51,8 +67,8 @@ This project is released with a MIT license. For more information, please check 
 
 ## Badges
 
-![languages](https://img.shields.io/github/languages/top/technoveltyco/prework-study-guide)
-![issues opened](https://img.shields.io/github/issues/technoveltyco/prework-study-guide)
-![issues closed](https://img.shields.io/github/issues-closed-raw/technoveltyco/prework-study-guide)
-![pull requests opened](https://img.shields.io/github/issues-pr/technoveltyco/prework-study-guide)
-![pull requests closed](https://img.shields.io/github/issues-pr-closed/technoveltyco/prework-study-guide)
+![languages](https://img.shields.io/github/languages/top/technoveltyco/bootcamp-week1-challenge)
+![issues opened](https://img.shields.io/github/issues/technoveltyco/bootcamp-week1-challenge)
+![issues closed](https://img.shields.io/github/issues-closed-raw/technoveltyco/bootcamp-week1-challenge)
+![pull requests opened](https://img.shields.io/github/issues-pr/technoveltyco/bootcamp-week1-challenge)
+![pull requests closed](https://img.shields.io/github/issues-pr-closed/technoveltyco/bootcamp-week1-challenge)
